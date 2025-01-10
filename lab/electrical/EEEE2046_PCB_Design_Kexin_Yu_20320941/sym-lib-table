@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "EEEE2046_electrical")(type "Legacy")(uri "${KIPRJMOD}/lib/EEEE2046_electrical.lib")(options "")(descr ""))
+)

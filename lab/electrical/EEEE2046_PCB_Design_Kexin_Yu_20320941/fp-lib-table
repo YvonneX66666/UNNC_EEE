@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "EEEE2046_Electrical")(type "KiCad")(uri "${KIPRJMOD}/lib/EEEE2046_Electrical.pretty")(options "")(descr ""))
+)

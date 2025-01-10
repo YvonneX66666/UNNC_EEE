@@ -1,0 +1,62 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BYG20J
+D Diode
+K diode
+$ENDCMP
+#
+$CMP BYV29FX-600
+D Diode
+K diode
+$ENDCMP
+#
+$CMP ECA2AM102
+D ECA2AM102 Capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP ECA2AM471
+D ECA2AM471 Capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP ETD_L
+D Inductor with Ferrite Core
+K inductor choke coil reactor magnetic
+$ENDCMP
+#
+$CMP ETD_Transformer_1P_1S
+D Transformer, single primary, single secondary
+K transformer coil magnet
+$ENDCMP
+#
+$CMP IRFI530NPbF
+D Transistor N-MOSFET with substrate diode (general)
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP MBRB3030CTLG
+D Dual diode, common cathode
+K diode
+$ENDCMP
+#
+$CMP STPS20H100CFP
+D Dual diode, common cathode
+K diode
+$ENDCMP
+#
+$CMP TC4425AVPA
+D 3A Dual High-Speed Power MOSFET Driver
+$ENDCMP
+#
+$CMP Toroid-Transformer_1P_2S
+D Transformer, single primary, dual secondary
+K transformer coil magnet
+$ENDCMP
+#
+$CMP VS-KBPC606PBF
+D Single Phase Rectifier Bridge
+K rectifier acdc
+$ENDCMP
+#
+#End Doc Library
