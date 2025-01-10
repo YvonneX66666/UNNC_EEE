@@ -1,0 +1,13 @@
+SYSTEM_CUSTOM_CIRCUIT_SYMBOLS={%DESIGN_KIT_SYSTEM_CUSTOM_CIRCUIT_SYMBOLS};{$HPEESOF_DIR}\custom\{%PROJECT1}\symbols
+SYSTEM_CUSTOM_CIRCUIT_DESIGNS={%DESIGN_KIT_SYSTEM_CUSTOM_CIRCUIT_DESIGNS};{$HPEESOF_DIR}\custom\{%PROJECT1}\designs
+VIA_CONFIG_PATH={%DESIGN_KIT_VIA_CONFIG_PATH};.:{%PROJECT_SEARCH_PATH}:{$HOME}\hpeesof\de\defaults:{$HPEESOF_DIR}\de\defaults:{%DESIGN_KIT_VIA_CONFIG_PATH}:{%USER_VIA_CONFIG_PATH}
+LAST_LIBRARY_SELECTED=cw2_lib
+SCHEM_FILE_OPEN_HISTORY_1=cw2_lib:Q7_microstrip_filter_0.5mm:schematic
+SCHEM_FILE_OPEN_HISTORY_2=cw2_lib:Q7_microstrip_filter_0.1mm:schematic
+SCHEM_FILE_OPEN_HISTORY_3=cw2_lib:microstrip_filter:schematic
+SCHEM_FILE_OPEN_HISTORY_4=cw2_lib:Compare_thickness:schematic
+SCHEM_FILE_OPEN_HISTORY_5=cw2_lib:microstrip_filter_0.5mm:schematic
+LAYOUT_FILE_OPEN_HISTORY_1=cw2_lib:microstrip_filter_7order_layout with 50 ohm:layout
+LAYOUT_FILE_OPEN_HISTORY_2=cw2_lib:microstrip_filter_7order:layout
+LAYOUT_FILE_OPEN_HISTORY_3=cw2_lib:microstrip_filter_Layout with 50 ohm:layout
+LAYOUT_FILE_OPEN_HISTORY_4=cw2_lib:microstrip_filter:layout

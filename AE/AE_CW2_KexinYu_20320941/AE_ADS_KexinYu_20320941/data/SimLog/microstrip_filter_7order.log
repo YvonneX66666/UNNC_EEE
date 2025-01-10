@@ -1,0 +1,10 @@
+Warning detected by hpeesofsim in Substrate model during netlist flattening.
+    Simulations referencing substrate `MSub1' will not include metal loss
+    because metal thickness is zero.
+
+SP SP1[1] <cw2_lib:microstrip_filter_7order:schematic>   freq=(0 Hz->20 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Resource usage:
+  Total stopwatch time     =     0.24 seconds.
+
